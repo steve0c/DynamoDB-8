@@ -1,0 +1,124 @@
+{
+    "Travel-Destinations": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Thailand"
+                    },
+                    "City": {
+                        "S": "Pai"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Australia"
+                    },
+                    "City": {
+                        "S": "Melbourne"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Philippines"
+                    },
+                    "City": {
+                        "S": "Moalboal"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Vietnam"
+                    },
+                    "City": {
+                        "S": "Da Lat"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "France"
+                    },
+                    "City": {
+                        "S": "Grenoble"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Romania"
+                    },
+                    "City": {
+                        "S": "Bucharest"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "England"
+                    },
+                    "City": {
+                        "S": "London"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Mexico"
+                    },
+                    "City": {
+                        "S": "Mazunte"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "Indonesia"
+                    },
+                    "City": {
+                        "S": "Uluwatu"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Country": {
+                        "S": "India"
+                    },
+                    "City": {
+                        "S": "Dharamshala"
+                    }
+                }
+            }
+        }
+    ]
+}
